@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "man",
+      "email": "M@gmail.com",
+      "password": "123456",
+      "id": "moiHEpEXSEE"
+    }
+  ],
+  "notes": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
